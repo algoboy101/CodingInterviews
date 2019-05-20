@@ -10,8 +10,8 @@
 >CSDN题解：[剑指Offer--014-调整数组顺序使奇数位于偶数前面](http://blog.csdn.net/gatieme/article/details/51133277)
 
 
-| 牛客OJ | 九度OJ | CSDN题解 | GitHub代码 | 
-| ------------- |:-------------:| -----:| 
+| 牛客OJ | 九度OJ | CSDN题解 | GitHub代码 
+|:-------:|:-------:|:-------:|:-------:|
 |[调整数组顺序使奇数位于偶数前面](http://www.nowcoder.com/practice/beb5aa231adc45b2a5dcc5b62c93f593?tpId=13&tqId=11166&rp=1&ru=%2Fta%2Fcoding-interviews&qru=%2Fta%2Fcoding-interviews%2Fquestion-ranking) | [1516-调整数组顺序使奇数位于偶数前面](http://ac.jobdu.com/problem.php?pid=1516) | [剑指Offer--014-调整数组顺序使奇数位于偶数前面](http://blog.csdn.net/gatieme/article/details/51133277) | [014-调整数组顺序使奇数位于偶数前面](https://github.com/gatieme/CodingInterviews/tree/master/014-调整数组顺序使奇数位于偶数前面) |
 
 

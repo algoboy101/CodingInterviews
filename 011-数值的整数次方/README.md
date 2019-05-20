@@ -8,8 +8,8 @@
 >CSDN题解：[剑指Offer--011-数值的整数次方](http://blog.csdn.net/gatieme/article/details/51123043)
 
 
-| 牛客OJ | 九度OJ | CSDN题解 | GitHub代码 | 
-| ------------- |:-------------:| -----:| 
+| 牛客OJ | 九度OJ | CSDN题解 | GitHub代码 
+|:-------:|:-------:|:-------:|:-------:|
 |[数值的整数次方](http://www.nowcoder.com/practice/1a834e5e3e1a4b7ba251417554e07c00?tpId=13&tqId=11165&rp=1&ru=/ta/coding-interviews&qru=/ta/coding-interviews/question-ranking) | [1514-数值的整数次方](http://ac.jobdu.com/problem.php?pid=1514) | [剑指Offer--011-数值的整数次方](http://blog.csdn.net/gatieme/article/details/51123043) | [011-数值的整数次方](https://github.com/gatieme/CodingInterviews/tree/master/011-数值的整数次方)|
 
 <br>

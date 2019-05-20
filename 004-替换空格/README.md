@@ -14,7 +14,7 @@
 | [替换空格](http://www.nowcoder.com/practice/4060ac7e3e404ad1a894ef3e17650423?tpId=13&tqId=11155&rp=1&ru=/ta/coding-interviews&qru=/ta/coding-interviews/question-ranking)  | [1510-替换空格](http://ac.jobdu.com/problem.php?pid=1510)   | [剑指Offer--004-替换空格](http://blog.csdn.net/gatieme/article/details/51100630)   | [004-替换空格](https://github.com/gatieme/CodingInterviews/tree/master/004-%E6%9B%BF%E6%8D%A2%E7%A9%BA%E6%A0%BC) |
 
 
-#题意
+# 题意
 -------
 题目描述
 
@@ -34,7 +34,7 @@
 
 那么怎么在原字符串上进行高效的替换呢？
 
-#暴力替换
+# 暴力替换
 -------
 
 最原始的方法，我们遍历一遍字符串，对字符中每一个空格，都用%20来替换，
@@ -98,7 +98,7 @@ int __tmain( )
 
 ``` 
 
-#优化
+# 优化
 -------
 
 上面那个方法太暴力了，有没有什么更好的方法呢？
@@ -147,6 +147,10 @@ public:
         for(i = length - 1, j = len - 1;
             i >= 0 && j >= 0;)
         {
+            // 优化
+            // 当i == j时，说明没有空格了，可以直接退出。
+            if(i == j)
+                break;
             if(str[i] == ' ')
             {
                 str[j--] = '0';

@@ -10,8 +10,8 @@
 >CSDN题解：[剑指Offer--018-树的子结构](http://blog.csdn.net/gatieme/article/details/51151916)
 
 
-| 牛客OJ | 九度OJ | CSDN题解 | GitHub代码 | 
-| ------------- |:-------------:| -----:| 
+| 牛客OJ | 九度OJ | CSDN题解 | GitHub代码 
+|:-------:|:-------:|:-------:|:-------:|
 |[树的子结构](http://www.nowcoder.com/practice/6e196c44c7004d15b1610b9afca8bd88?tpId=13&tqId=11170&rp=1&ru=/ta/coding-interviews&qru=/ta/coding-interviews/question-ranking) | [1520-树的子结构](http://ac.jobdu.com/problem.php?pid=1520) | [剑指Offer--018-树的子结构](http://blog.csdn.net/gatieme/article/details/51151916) | [018-树的子结构](https://github.com/gatieme/CodingInterviews/tree/master/018-树的子结构)|
 
 

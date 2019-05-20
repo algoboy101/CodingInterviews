@@ -10,8 +10,8 @@
 >CSDN题解：[剑指Offer--019-二叉树的镜像](http://blog.csdn.net/gatieme/article/details/51175749)
 
 
-| 牛客OJ | 九度OJ | CSDN题解 | GitHub代码 | 
-| ------------- |:-------------:| -----:| 
+| 牛客OJ | 九度OJ | CSDN题解 | GitHub代码 
+|:-------:|:-------:|:-------:|:-------:|
 |[二叉树的镜像](http://www.nowcoder.com/practice/564f4c26aa584921bc75623e48ca3011?tpId=13&tqId=11171&rp=1&ru=/ta/coding-interviews&qru=/ta/coding-interviews/question-ranking) | [1521-二叉树的镜像](http://ac.jobdu.com/problem.php?pid=1521) | [剑指Offer--019-二叉树的镜像](http://blog.csdn.net/gatieme/article/details/51175749) | [019-二叉树的镜像](https://github.com/gatieme/CodingInterviews/tree/master/019-二叉树的镜像) |
 
 
