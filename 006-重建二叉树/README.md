@@ -1,4 +1,4 @@
-#链接
+# 链接
 ------- 
 
 >牛客OJ：[重建二叉树](http://www.nowcoder.com/practice/8a19cbe657394eeaac2f6ea9b0f6fcf6?tpId=13&tqId=11157&rp=1&ru=%2Fta%2Fcoding-interviews&qru=%2Fta%2Fcoding-interviews%2Fquestion-ranking) 
@@ -18,7 +18,7 @@
 <br>
 **您也可以选择[回到目录-剑指Offer--题集目录索引](http://blog.csdn.net/gatieme/article/details/51916802)**
 
-#题意
+# 题意
 -------
 题目描述
 
@@ -35,7 +35,7 @@
 
 则重建二叉树并返回。
 
-#分析
+# 分析
 -------
 
 这道题还是比较简单的，我们知道
